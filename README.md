@@ -1,4 +1,4 @@
-Eyelink screen recorder:
+**Eyelink screen recorder**:
 
 The easiest way to set it up is to install Anaconda (https://www.anaconda.com/download). The code is tested on python version 3.11.
 
@@ -12,6 +12,6 @@ How to control the programme:
 
 - Enter: do Eyelink camera set-up etc.
 - press "C" to enter calibration setup-up at any time
-- press "D" to enter drift check any time. NB: once you exit drift check/ calibration, the screen will minamise. The programme keeps recording your computer screen until you call the C/D keys again.
+- press "D" to enter drift check any time. NB: once you exit drift check/ calibration, the screen will minimise. The programme keeps recording your computer screen until you call the C/D keys again.
 - press "Ctr+E" to exit the programme and stop recording. You can find your data file in the "Results" folder.
 
