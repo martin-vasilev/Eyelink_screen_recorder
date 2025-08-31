@@ -6,7 +6,7 @@ The easiest way to set it up is to install Anaconda (https://www.anaconda.com/do
 
 You will also need to download and install the Eyelink developer API kit: https://www.sr-research.com/support/forum-9.html . NOTE: if you use a different python version, you will need to manually copy the pylink files (under the folder "pylink") associated with your version from the SR Research folder).
 
-The code uses a few python packages. To install them, open the Anaconda prompt and type "conda install requirement.txt"
+The code uses a few python packages. To install them, open the Anaconda prompt, set your directory to the folder, and type "conda install requirement.txt"
 
 Execute pygame_experiment.py to start. Note that this may open a minimised screen (depending on your OS), so you may need to click it to open it full-screen.
 
